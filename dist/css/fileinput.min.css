@@ -1,0 +1,5 @@
+/*!
+ * reparsoft-css-fileselector - LESS  last compressed 
+ * @licence reparsoft-css-fileselector - v (2015-03-08)
+ * http://56hm.com/ | Licence: MIT
+ */.repkit-fileinput{position:relative;overflow:hidden}.repkit-fileinput input[type=file]{position:absolute;top:0;left:0;min-width:100%;min-height:100%;opacity:0;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);filter:alpha(opacity = 0);background:transparent;cursor:pointer}

@@ -1,0 +1,21 @@
+{
+    "name": "reparsoft/yii2-widgets-button",
+    "description": "The bootstrap3 button strengthe extension based on the Yii2-Toolkit extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "bootstrap", "button", "extension", "widget"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "repar",
+            "email": "47558328@qq.com"
+        }
+    ],
+    "require": {
+        "reparsoft/yii2-toolkit-base": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "repkit\\btn\\": ""
+        }
+    }
+}
